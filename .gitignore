@@ -1,0 +1,17 @@
+# Compiled Java class files
+out/
+*.class
+
+# IDE files
+.idea/
+*.iml
+.vscode/
+*.project
+*.classpath
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# MySQL JDBC driver (user must download their own)
+lib/mysql-connector-j.jar
